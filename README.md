@@ -55,9 +55,8 @@ todo/
 
 ## 📸 Screenshot
 
+<img width="1323" height="443" alt="image" src="https://github.com/user-attachments/assets/04ea9565-6f35-42ff-81d9-892d78490067" />
 
 
 
-
-
-**Made with ❤️ by Rudra Prakash**
+**Made with ❤️**
